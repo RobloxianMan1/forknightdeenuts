@@ -1,1 +1,5 @@
-print(hello)
+local HWIDList = {
+    "hwids",
+};
+
+return HWIDList
