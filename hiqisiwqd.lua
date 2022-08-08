@@ -1,1 +1,5 @@
-local xoqwsioqwd = ".gg/dGbvPVCK"
+local test = ".gg/dGbvPVCK"
+
+function test:Connect(player)
+  print(player.Name)
+ end
