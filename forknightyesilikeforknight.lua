@@ -1,1 +1,1 @@
-local joqwwdizjqwxoxrcjqd = ".gg/dGbvPVCK"
+".gg/dGbvPVCK"
