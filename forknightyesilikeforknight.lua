@@ -1,1 +1,1 @@
-".gg/dGbvPVCK"
+print(hello)
